@@ -1,2 +1,2 @@
 # testproject
-- creating this as a test, checking for understatnding.
+- creating this as a test, checking for understanding.
